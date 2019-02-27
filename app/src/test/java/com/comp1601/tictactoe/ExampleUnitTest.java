@@ -4,6 +4,8 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
+
+
 /**
  * Example local unit test, which will execute on the development machine (host).
  *
@@ -11,7 +13,10 @@ import static org.junit.Assert.*;
  */
 public class ExampleUnitTest {
     @Test
-    public void addition_isCorrect() {
-        assertEquals(4, 2 + 2);
+    public void play_isCorrect()throws Exception {
+        TicTacToeGame simpleGame =new TicTacToeGame();
+        simpleGame.displayChessBoard();
+        simpleGame.play(TicTacToeGame.X_PIECE,4);
+        assertEquals(TicTacToeGame.X_PIECE , simpleGame.getChessBoard()[1][1]);
     }
 }
