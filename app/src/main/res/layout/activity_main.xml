@@ -30,7 +30,7 @@
             android:layout_width="wrap_content"
             android:layout_height="100dp"
             android:layout_margin="5dp"
-            android:text="Button"
+            android:text="@string/empty_place"
             tools:layout_editor_absoluteX="154dp"
             tools:layout_editor_absoluteY="109dp" />
 
@@ -39,7 +39,7 @@
             android:layout_width="wrap_content"
             android:layout_height="100dp"
             android:layout_margin="5dp"
-            android:text="Button"
+            android:text="@string/empty_place"
             tools:layout_editor_absoluteX="154dp"
             tools:layout_editor_absoluteY="109dp" />
     </LinearLayout>
@@ -56,7 +56,7 @@
             android:layout_width="wrap_content"
             android:layout_height="100dp"
             android:layout_margin="5dp"
-            android:text="Button"
+            android:text="@string/empty_place"
             tools:layout_editor_absoluteX="56dp"
             tools:layout_editor_absoluteY="109dp" />
 
@@ -65,7 +65,7 @@
             android:layout_width="wrap_content"
             android:layout_height="100dp"
             android:layout_margin="5dp"
-            android:text="Button"
+            android:text="@string/empty_place"
             tools:layout_editor_absoluteX="154dp"
             tools:layout_editor_absoluteY="109dp" />
 
@@ -74,7 +74,7 @@
             android:layout_width="wrap_content"
             android:layout_height="100dp"
             android:layout_margin="5dp"
-            android:text="Button"
+            android:text="@string/empty_place"
             tools:layout_editor_absoluteX="154dp"
             tools:layout_editor_absoluteY="109dp" />
     </LinearLayout>
@@ -91,7 +91,7 @@
             android:layout_width="wrap_content"
             android:layout_height="100dp"
             android:layout_margin="5dp"
-            android:text="Button"
+            android:text="@string/empty_place"
             tools:layout_editor_absoluteX="56dp"
             tools:layout_editor_absoluteY="109dp" />
 
@@ -100,7 +100,7 @@
             android:layout_width="wrap_content"
             android:layout_height="100dp"
             android:layout_margin="5dp"
-            android:text="Button"
+            android:text="@string/empty_place"
             tools:layout_editor_absoluteX="154dp"
             tools:layout_editor_absoluteY="109dp" />
 
@@ -109,7 +109,7 @@
             android:layout_width="wrap_content"
             android:layout_height="100dp"
             android:layout_margin="5dp"
-            android:text="Button"
+            android:text="@string/empty_place"
             tools:layout_editor_absoluteX="154dp"
             tools:layout_editor_absoluteY="109dp" />
     </LinearLayout>
