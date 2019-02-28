@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">TicTacToe</string>
     <string name="empty_place"></string>
+    <string name="X_piece">" X "</string>
+    <string name="O_piece">" O "</string>
+    <string name="human_win">"You Win!"</string>
+    <string name="AI_win">"AI Win!"</string>
+    <string name="draw_game">"-Draw game-"</string>
+
 </resources>
